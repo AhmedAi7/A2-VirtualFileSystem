@@ -1,0 +1,13 @@
+CreateFolder-root/Folder1
+CreateFile-root/Folder1/file1.txt-2
+CreateFolder-root/Folder2
+CreateFile-root/Folder2/file2.txt-2
+CreateFile-root/ahmed.txt-4
+CreateFile-root/Folder2/file3.txt-7
+CreateFile-root/Folder2/file6.txt-70
+DeleteFile-root/ahmed.txt
+CreateFile-root/test.txt-2
+DeleteFolder-root
+DisplayDiskStructure
+DisplayDiskStatus
+Exit
